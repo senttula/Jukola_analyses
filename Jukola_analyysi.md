@@ -76,7 +76,7 @@
 | 2019  | 210s  |
 | 2021  | 216s  |
 
---> Lappee ja Kytäjä vaikeimpia
+--> Lapua ja Kytäjä vaikeimpia
 
 
 #### Potentiaalisten voittajien määrä vuosittain
