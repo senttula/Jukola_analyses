@@ -46,6 +46,9 @@
 --> Hajontarasteille tehdään 30% enemmän virhettä
 
 
+#### Virhe per joukkueen sijoitus
+![Virhe per joukkueen sijoitus](https://github.com/senttula/Jukola_analyses/blob/main/mistake_per_team_placement.png)
+
 #### Virhe per vuosi
 | Vuosi  | Virhesekunnit per tunti |
 | ------------- | ------------- |
@@ -72,7 +75,6 @@
 | 2021  | 216s  |
 
 --> Lappee ja Kytäjä vaikeimpia
-
 
 
 #### Potentiaalisten voittajien määrä vuosittain
