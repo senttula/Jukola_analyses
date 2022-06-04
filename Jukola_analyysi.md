@@ -49,7 +49,7 @@
 #### Virhe per joukkueen sijoitus
 ![Virhe per joukkueen sijoitus](https://github.com/senttula/Jukola_analyses/blob/main/mistake_per_team_placement_.png)
 
---> kärkijoukkueilla ~2,5 minuuttia virhettä per tunti, muilla noin 4.
+--> kärkijoukkueilla ~2,5 minuuttia virhettä per tunti, muilla alle 4.
 
 #### Virhe per vuosi
 | Vuosi  | Virhesekunnit per tunti |
