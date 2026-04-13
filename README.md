@@ -6,5 +6,6 @@ Each year has 1000-1600 7 person mens teams and similar amount of 4 person women
 Each person has 10-30 controls which gives us millions of datapoints to analyse from.
 
 [Jukola analyses](https://github.com/senttula/Jukola_analyses/blob/main/Jukola_analyysi.md)
+
 [Venla analyses](https://github.com/senttula/Jukola_analyses/blob/main/Venla_analyysi.md)
 
